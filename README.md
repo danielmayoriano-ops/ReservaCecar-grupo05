@@ -16,6 +16,6 @@ Proyecto Final 2026-02 – Programación y Tecnologías Web I (CECAR)
 HTML5, CSS3, JavaScript, Bootstrap 5
 
  Estado
-- Entrega 1: Project Charter ✔
-- Entrega 2: Wireframes ✔
+- Entrega 1: Project Charter terminado
+- Entrega 2: Wireframes terminado
 - Entrega 3: Prototipo funcional (1 de diciembre de 2026)
